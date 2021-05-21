@@ -1,5 +1,4 @@
 # Terraform
-My Terraform Projects\
 This code creates the following resources on AWS using Terraform:
 VPC\
 An Internet Gateway\
