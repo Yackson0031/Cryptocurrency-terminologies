@@ -1,8 +1,8 @@
 # Terraform
 My Terraform Projects
-This code creates the following resources on AWS using Terraform.
-VPC
-An Internet Gateway
+This code creates the following resources on AWS using Terraform:
+VPC\
+An Internet Gateway\
 Custom Route Table
 Subnet
 Subnet Association with the Route Table
