@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIAUEQD2RMDRVMWZHFL"
-  secret_key = "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"
+  access_key = "AKIAUEQD2R**********"
+  secret_key = "NFNBPYpLbs7c3xvOc0A6bgdUVUDA/M**********"
 }
 
 resource "aws_instance" "my_first_teraform" {
